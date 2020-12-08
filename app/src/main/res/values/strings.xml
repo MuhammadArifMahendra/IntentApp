@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">IntentApp</string>
+    <string name="btn_profile">Profile</string>
+    <string name="btn_product">Produk</string>
+    <string name="btn_parcelable">Activity With Parcelable</string>
+    <string name="btn_implicit">Implicit Intent</string>
+    <string name="btn_result">Intent With Result</string>
+    <string name="profile_name">Muhammad Arif Mahendra</string>
+    <string name="email_profil">arifmahendra49@gmail.com</string>
+    <string name="count_pencapaian">1250</string>
+    <string name="profile_pencapaian">Pencapaian</string>
+    <string name="count_teman">12.000</string>
+    <string name="profile_teman">Teman</string>
+    <string name="btn_back">Kembali</string>
+    <string name="lbl_produk">Produk</string>
+    <string name="text_nama">TextView</string>
+    <string name="lbl_brt">Berat</string>
+    <string name="txt_berat">TextView</string>
+    <string name="lbl_detail">Detail</string>
+    <string name="txt_detail">TextView</string>
+    <string name="btn_kembail">Kembali</string>
+    <string name="count_foto">6 Foto</string>
+    <string name="harga_produk">Rp 8.999.000</string>
+    <string name="nama_produk">Laptop HP 14t</string>
+    <string name="nm_produk">Produk</string>
+    <string name="isi_produk">Laptop HP 14t</string>
+    <string name="berat_produk">Berat</string>
+    <string name="isi_berat"> 1,47kg</string>
+    <string name="detail_produk">Detail</string>
+    <string name="isi_detail">Layar IPS dengan BrightView WLED backlight 14 inci resolusi full HD 1920 x 1080 piksel, MicroEdge bezel
+Prosesor AMD Ryzen 5 3500U quad-core dengan kecepatan 2,1GHz Turbo maksimal 3,7GHz
+Chipset AMD
+Grafis AMD Radeon RX Vega 8 iGPU
+Memori RAM 8GB DDR4 2400MHz, upgradeable
+Storage SSD 512GB PCIe NVMe M.2
+Konektifitas 10/100/1000 GbE LAN, WiFi 802.11ac (1x1), Bluetooth 4.2 Combo, Port USB 3.1 Gen1, Port USB 3.1 Gen1 Type-C (Data transfer only, 5 Gb/s signaling rate), Port HDMI, card reader, port combo audio
+Audio dual speaker
+Kamera HP TrueVision HD Camera with integrated digital microphone
+Baterai 3-cell (45 WHr) Li-ion
+Sistem Microsoft Windows 10 Home x64 original + Microsoft Office Home &amp; Student 2019</string>
+    <string name="todo">TODO</string>
+    <string name="btn_kembali">Kembali</string>
+    <string name="data_terjual">| 2.2RB Terjual</string>
+</resources>
